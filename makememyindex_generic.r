@@ -2,7 +2,7 @@ REBOL [
 	Title: makememyindex
 ]
 
-;; made to fight an isp's sketchy automatic index.php and redirect to a cleaner site.
+;; made to fight an web-host's sketchy automatic index.php and redirect to a cleaner site.
 
 site: "sitename.com"
 user: "username"
